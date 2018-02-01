@@ -1,7 +1,7 @@
 # assos
 In-memory data proxy server
 
-C++ implementation of multi-threaded
+C++ implementation of multi-threaded data proxy server.
 
 HOW IT WORKS:
 
