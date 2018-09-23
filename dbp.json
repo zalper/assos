@@ -1,0 +1,10 @@
+{  
+   "objectType":0,
+   "WebserverPort":8050,
+   "VisitDelay":200,
+   "WaitTimeout":45,
+   "ConcurrentProcess":4,
+   "BarrelCapacity":800,
+   "BarrelThreshold":400,
+   "serverPort":9109
+}
